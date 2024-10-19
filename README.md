@@ -1,3 +1,6 @@
+## [Postman Documentation](https://documenter.getpostman.com/view/26560018/2sA2rFQehR)
+
+
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
   Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
@@ -37,9 +40,6 @@ DATABASE_URL="postgresql://username:password@localhost:5432/dbName?schema=public
 ```js
 $ npm run dev
 ```
-
-## Postman Documentation
-[Postman](https://documenter.getpostman.com/view/26560018/2sA2rFQehR)
 
 [appveyor-image]: https://badgen.net/appveyor/ci/dougwilson/express/master?label=windows
 [appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
